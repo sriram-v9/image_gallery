@@ -1,0 +1,71 @@
+h1{
+    text-align:center;
+    text-transform:uppercase;
+    font-family: "Monaco",Monospace;
+    
+    
+ }
+ h3{
+   display:block;
+   font-size:25px;
+   font-family:"Papyrus";
+   
+ }
+ h4{
+   text-align:right;
+   padding:10px;
+   font-size:30px;
+ }
+ footer{
+   float:right;
+   font-family:Brush Script MT;
+   font-size:250%;
+   
+ }
+ div.gallery {
+   margin: 10px;
+   border: 1px solid #ccc;
+   
+   float:left;
+   width: 600px;
+   padding:15px;
+ }
+ 
+ div.gallery:hover {
+   border: 1px solid #777;
+ }
+ 
+ div.gallery img {
+   width: 100%;
+   height: auto;
+   padding:10px;
+ }
+ 
+ div.desc {
+   padding: 15px;
+   text-align: center;
+ }
+ div.para{
+   text-align:center;
+   display:inline-block;
+   font-size:25px;
+   
+ }
+ nav a{
+   display:inline-block;
+   width:70px;
+   text-decoration:none;
+   
+ }
+ nav a:hover{
+   
+ 
+   color:red;
+ }
+ head{
+  background-color:white;
+ }
+ body{
+  background-color:white;
+ }
+ 
